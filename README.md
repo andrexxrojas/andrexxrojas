@@ -23,4 +23,10 @@ I'M A FULL STACK DEVELOPER BY DAY BUT I'M MAINLY A FULL STACK DEVELOPER BY NIGHT
 - Typescript
 ---
 ### Tech Stack :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/25px-Angular_full_color_logo.svg.png" height="25"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn72y-YwBqWpiA2QNKdlwWOzUMUjdHtCVHoztpuHJEOFCKfI_aOdwwKnmwWkvXc8sVcDw&usqp=CAU" height="25"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="25"> <img src="https://static-00.iconduck.com/assets.00/mongodb-original-icon-921x2048-hvrb89lu.png" height="25"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png" height="25"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/25px-Angular_full_color_logo.svg.png" height="25"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn72y-YwBqWpiA2QNKdlwWOzUMUjdHtCVHoztpuHJEOFCKfI_aOdwwKnmwWkvXc8sVcDw&usqp=CAU" height="25"> 
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="25"> 
+<img src="https://static-00.iconduck.com/assets.00/mongodb-original-icon-921x2048-hvrb89lu.png" height="25"> 
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="25"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="25">
