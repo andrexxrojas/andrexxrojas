@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi There! I'm Andre
 
-<!--
-**andrexxrojas/andrexxrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  <a href="https://codepen.io/qwoprojas" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CodePen-12100E?style=for-the-badge&logo=codepen&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.instagram.com/andrexxrojas/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/jay-andre-rojas" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+---
+I'M A FULL STACK DEVELOPER BY DAY BUT I'M MAINLY A FULL STACK DEVELOPER BY NIGHT.
+
+---
+### Currently Learning :
+- Next.js
+- Typescript
+---
+### Tech Stack :
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/25px-Angular_full_color_logo.svg.png" height="25"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" height="25"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="25"> <img src="https://static-00.iconduck.com/assets.00/mongodb-original-icon-921x2048-hvrb89lu.png" height="25"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="25">
