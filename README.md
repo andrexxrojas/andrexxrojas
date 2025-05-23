@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/andrexxrojas/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/jay-andre-rojas" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/jay-andre-rojas-4a3811190" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
 </a>
 
