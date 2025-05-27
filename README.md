@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=16&area=true&order=5&bg_color=f7f7f7&color=0a0a0a&line=f05237&point=0a0a0a&hide_border=true" height="385" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=16&area=true&order=5&bg_color=f7f7f7&color=0a0a0a&line=f05237&point=0a0a0a&hide_border=true" height="360" alt="activity-graph graph"  />
 </div>
 
 ###
