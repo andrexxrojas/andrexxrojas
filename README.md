@@ -59,8 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexxrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Most%20used%20languages" height="227" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="227" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexxrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Most%20used%20languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=5&theme=merko&area=true&order=5&hide_border=true" height="387" alt="activity-graph graph"  />
 </div>
 
