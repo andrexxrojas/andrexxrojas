@@ -1,23 +1,23 @@
+<div align="center">
+  <img height="200" src="https://i.redd.it/gtd91xvup9b51.gif"  />
+</div>
+
+###
+
 <h4 align="center">Hi There! Name's Andre</h4>
 
 ###
 
 <div align="center">
   <a href="linkedin.com/in/jay-andre-rojas-4a3811190" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=f7f7f7&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/andrexxrojas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f7f7f7&logoColor=0a0a0a&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://codepen.io/qwoprojas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=f7f7f7&logoColor=0a0a0a&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.redd.it/gtd91xvup9b51.gif"  />
 </div>
 
 ###
@@ -59,9 +59,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexxrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Most%20used%20languages" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=5&theme=merko&area=true&order=5&hide_border=true" height="387" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexxrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2&custom_title=Most%20used%20languages" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=16&area=true&order=5&bg_color=f7f7f7&color=0a0a0a&line=f05237&point=0a0a0a&hide_border=true" height="385" alt="activity-graph graph"  />
 </div>
 
 ###
