@@ -1,26 +1,67 @@
-## Hi There! I'm Andre
+<h4 align="center">Hi There! Name's Andre</h4>
 
-<p align="left">
+###
 
-  <a href="https://codepen.io/qwoprojas" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CodePen-12100E?style=for-the-badge&logo=codepen&logoColor=white" height="28" />
+<div align="center">
+  <a href="linkedin.com/in/jay-andre-rojas-4a3811190" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/andrexxrojas/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  <a href="https://www.instagram.com/andrexxrojas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/jay-andre-rojas-4a3811190" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-</a>
+  <a href="https://codepen.io/qwoprojas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
+  </a>
+</div>
 
-</p>
+###
 
----
-I'M A FULL STACK DEVELOPER BY DAY BUT I'M MAINLY A FULL STACK DEVELOPER BY NIGHT.
+<div align="center">
+  <img height="200" src="https://i.redd.it/gtd91xvup9b51.gif"  />
+</div>
 
----
-### Currently Learning :
-- Next.js
-- Typescript
----
-### Tech Stack :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png" height="25"> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/25px-Angular_full_color_logo.svg.png" height="25"> &nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn72y-YwBqWpiA2QNKdlwWOzUMUjdHtCVHoztpuHJEOFCKfI_aOdwwKnmwWkvXc8sVcDw&usqp=CAU" height="25"> &nbsp;<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" height="25"> &nbsp;<img src="https://static-00.iconduck.com/assets.00/mongodb-original-icon-921x2048-hvrb89lu.png" height="25"> &nbsp;<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="25"> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="25">
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrexxrojas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Most%20used%20languages" height="227" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="227" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=5&theme=merko&area=true&order=5&hide_border=true" height="387" alt="activity-graph graph"  />
+</div>
+
+###
