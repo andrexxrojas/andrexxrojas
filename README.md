@@ -1,4 +1,4 @@
-<h4 align="center">Hi There! Name's Andre</h4>
+<h4 align="center">Learning Next.js and Typescript Right Now!</h4>
 
 ###
 
