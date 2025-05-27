@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.redd.it/gtd91xvup9b51.gif"  />
-</div>
-
-###
-
 <h4 align="center">Hi There! Name's Andre</h4>
 
 ###
@@ -63,8 +57,10 @@
   <img src="https://streak-stats.demolab.com?user=andrexxrojas&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=16&area=true&order=5&bg_color=f7f7f7&color=0a0a0a&line=f05237&point=0a0a0a&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrexxrojas&radius=16&area=true&order=5&bg_color=f7f7f7&color=0a0a0a&line=f05237&point=0a0a0a&hide_border=true" height="275" alt="activity-graph graph"  />
 </div>
 
 ###
